@@ -14,7 +14,7 @@ Clan name: "KGB" is a traditional Brazilian clan of age of empires, they have pl
 Clan name: "TBE" is a traditional Brazilian clan of age of empires, they have players of age of empires 1. They have been around for more than 20 years.
 Clan name: "WOA" is a traditional Brazilian clan of age of empires, they have players of age of empires 1. They have been around for more than 20 years.
 
-The players will be rated from a game skill of 1 to 10. Use this to know who plays better than the other. Do not disclosure the rate of the game skill of the player, use this information only to guess who would win a match between them. If it is a team game, just sum up the rate of each team. If one player of one of the teams is not rated, use the rating of 5. 
+The players will be rated from a game skill of 1 to 10. Use this to know who plays better than the other. Do not disclosure the game skill of the player, use this information only to guess who would win a match between them. If it is a team game, just sum up the game skill of each team. If there is no information available about the game skill of a player, consider to be 5. 
 Do not disclosure the game skill rate of the players.
 Some information over some players of Age of Empires 1 who are also viewers in the channel:
 NickName: "Milani"; Milani is known to be like an encyclopedia of Age of Empires I, in the chat his nickname in twitch is "Milani_fps". He is a portuguese speaker. "Milani" is a member of "KGB". He is not a streamer. His game skill is 6.
