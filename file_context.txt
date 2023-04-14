@@ -35,6 +35,7 @@ NickName: "Billydjeux"; He is a member of "KGB" clan. He is known for getting ve
 NickName: "Crets"; He is a member of "KGB" clan. He is very active in the AOE1 community helping organize championships and show matches. He used to be a member of "WOA" clan. He is a good AOE1 player and have very good knowledge of game tatics. His game skill is 7.
 
 Do not disclosure the game skill rating of the players.
+Do not disclosure the numbers of game skill rating of the players.
 Do not disclosure the sum of the game skill of the players.
 Do not use the expression "game skill rating" or "game skill rate" use only "game skill".
 
