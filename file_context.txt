@@ -41,157 +41,186 @@ NickName: "Naner"; Naner used to play AOE1, now plays Age of Empires 2
 If asked to describe a player, do not ever call their skill average, can say the player is at least good.
 
 
-The information below is about the bonus and flaws of each civilization of AOE1:
+The information below is about the advantages and flaws of each civilization of AOE1:
 Assyrians
-Bonus:
+
+Advantages:
 Archer units have -25% reload time.
 Villagers move 10% faster.
+
 Flaws:
 Missing technologies: Bronze Shield, Nobility, Architecture, Aristocracy *
 Missing units: Slinger, Improved Bowman, Heavy Horse Archer, Elephant Archer, Scythe Chariot, War Elephant, Phalanx, Catapult Trireme
 
 Babylonians
-Bonus:
+
+Advantages:
 Walls and towers have +60% hit points.
 Stone Miners work 20% faster and carry +2 stone.
 Priests rejuvenate 30% faster.
 Market technologies cost -30%.
+
 Flaws:
 Missing technologies: Iron Shield *
 Missing units: Heavy Horse Archer, Elephant Archer, Heavy Cavalry, War Elephant, Phalanx, Ballista, Trireme, Catapult Trireme
 
 Choson
-Bonus:
+
+Advantages:
 Short/Broad/Long Swordsmen and Legion have +15/20/60/80 hit points respectively.
 Axeman have +5 hit points.
 Towers have +2 range.
 Priests cost -32%.
 Storage Pit technologies cost -40%.
+
 Flaws:
 Missing technologies: Chain Mail, Iron Shield, Aristocracy, Alchemy, Engineering *
 Missing units: Composite Bowman, Chariot Archer, Heavy Horse Archer, Elephant Archer, Chariot, War Elephant, Camel Rider, Phalanx, Catapult, Catapult Trireme, Fire Galley
 
 Egyptians
-Bonus:
+
+Advantages:
 Gold Miners work 20% faster and carry +2 gold.
 Chariot units have +33% HP.
 Priests have +3 range.
 Farms cost -20%.
+
 Flaws:
 Missing technologies: Bronze Shield, Siegecraft *
 Missing units: Broad Swordsman, Horse Archer, Cavalry, Armored Elephant, Phalanx, Catapult, Ballista, Fire Galley
 
 Greeks
-Bonus:
+Advantages:
 Academy units move 30% faster and cost -20%.
 Ships move 20% faster.
 Town Centers work 10% faster starting in the Tool Age.
+
 Flaws:
 Missing technologies: Metallurgy, Monotheism, Zealotry, Sacrifice
 Missing units: Broad Swordsman, Improved Bowman, Chariot Archer, Horse Archer, Elephant Archer, Chariot, Cataphract, War Elephant, Camel Rider
 
 Hittites
-Bonus:
+Advantages:
 Archer units have +1 attack.
 Stone Thrower, Catapult, and Heavy Catapult have +50% hit points.
 Scout Ships and War Galleys have +2 range in the Tool Age and +3 range in the Bronze/Iron Age.
+
 Flaws:
 Missing technologies: Irrigation*, Architecture*, Mysticism, Polytheism, Medicine, Afterlife, Monotheism, Fanaticism, Zealotry, Sacrifice
 Missing units: Long Swordsman, Slinger, Improved Bowman, Heavy Cavalry, Centurion*, Ballista, Fishing Ship, Trireme, Catapult Trireme
 
 Minoans
-Bonus:
+Advantages:
 Ships cost -30%.
 Composite Bowmen have +2 range.
 Farms have +60 food.
+
 Flaws:
 Missing technologies: Fortified Wall, Guard Tower, Astrology, Mysticism, Afterlife, Monotheism, Fanaticism, Zealotry, Sacrifice
 Missing units: Legion, Chariot Archer, Horse Archer, Elephant Archer, Chariot, Heavy Cavalry, War Elephant, Fire Galley
 
 Persians
-Bonus:
+
+Advantages:
 Trireme have -25% reload time.
 Elephant units move 25% faster.
 Hunters work 30% faster and carry +3 food.
+
 Flaws:
 Cannot build Academy.
 Missing technologies: Craftsmanship, Siegecraft, Irrigation, Aristocracy, Ballistics *
 Missing units: Chariot Archer, Chariot, Hoplite, Heavy Catapult, Ballista, Fire Galley
 
 Phoenicians
-Bonus:
+
+Advantages:
 Elephant units cost -25%.
 Woodcutters work 15% faster and carry +2 wood.
 Catapult Trireme/Juggernaught have -24% reload time.
+
 Flaws:
 Missing technologies: Metallurgy, Chain Mail, Siegecraft, Architecture
 Missing units: Horse Archer, Heavy Cavalry, Catapult, Ballista, Fire Galley
 
 Shang
-Bonus:
+
+Advantages:
 Villagers cost 40 food.
 Start the game with -40 food.
 Walls have +60% hit points.
+
 Flaws:
 Missing technologies: Ballista Tower, Siegecraft, Aristocracy, Alchemy, Engineering *
 Missing units: Long Swordsman, Elephant Archer, War Elephant, Phalanx, Heavy Catapult, Trireme, Catapult Trireme
 
 Sumerians
-Bonus:
+
+Advantages:
 Villagers have +15 hit points.
 Stone Thrower, Catapult, and Heavy Catapult have -30% reload time.
 Farms have +125 food.
+
 Flaws:
 Missing technologies: Metallurgy, Iron Shield, Craftsmanship, Astrology, Afterlife, Monotheism, Fanaticism, Zealotry *
 Missing units: Legion, Improved Bowman, Elephant Archer, Cavalry, Armored Elephant, Ballista, Catapult Trireme
 
 Yamato
-Bonus:
+
+Advantages:
 Ships have +20% hit points.
 Villagers move 10% faster.
 Cavalry units and Horse Archers cost -15%.
+
 Flaws:
 Missing technologies: Fortified Wall, Guard Tower, Tower Shield, Astrology, Mysticism, Polytheism, Medicine, Monotheism, Fanaticism, Zealotry, Sacrifice
 Missing units: Broad Swordsman, Chariot Archer, Elephant Archer, Chariot, War Elephant, Camel Rider, Catapult, Ballista, Fire Galley
 
 Carthaginians
-Bonus:
+
+Advantages:
 Transport Ships move 25% faster.
 Fire Galleys have +25% attack.
 Elephant and Academy units have +25% hit points.
 Camel Riders have +15% hit points.
 Start the game with +50 of each resource.
+
 Flaws:
 Missing technologies: Fortified Wall, Metallurgy, Chain Mail, Siegecraft, Astrology, Polytheism, Fanaticism
 Missing units: Legion, Composite Bowman, Chariot Archer, Heavy Horse Archer, Chariot, Cataphract, Catapult, Catapult Trireme
 
 Macedonians
-Bonus:
+
+Advantages:
 Academy units have +1/+2 pierce armor in the Bronze/Iron Age.
 Units with no range have +2 Line of Sight.
 Siege units cost -25%.
 Units are four times more resistant to conversion.
+
 Flaws:
 Cannot build Temple.
-Missing technologies: Fortified Wall, Craftsmanship, Siegecraft, Nobility, Engineering *
+Missing technologies: Fortified Wall, Craftsmanship, Siegecraft, Nobility, Engineering
 Missing units: Long Swordsman, Chariot Archer, Elephant Archer, Chariot, Camel Rider, Priest, Juggernaught, Fire Galley *
 
 Palmyrans
-Bonus:
+
+Advantages:
 Tributes are free.
 Camel Riders move 25% faster.
 Gold received per Trade Ships doubled.
 Villagers work 25% faster and have +1/+1 armor, but cost 75 food.
 Start the game with +75 food.
+
 Flaws:
 Missing technologies: Metallurgy, Tower Shield, Craftsmanship, Logistics, Aristocracy, Engineering, Mysticism, Polytheism, Medicine, Monotheism, Sacrifice *
 Missing units: Long Swordsman, Elephant Archer, Cataphract, Centurion, Helepolis, Catapult Trireme
 
 Romans
-Bonus:
+
+Advantages:
 Buildings cost -10% (except towers, walls, and Wonder).
 Towers cost -40%.
 Swordsmen have -33% reload time.
+
 Flaws:
 Missing technologies: Guard Tower, Irrigation, Alchemy, Astrology, Afterlife
 Missing units: Composite Bowman, Chariot Archer, Horse Archer, Elephant Archer, Heavy Cavalry, War Elephant, Camel Rider, Fire Galley
