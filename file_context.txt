@@ -37,6 +37,7 @@ NickName: "Jalim"; He is a AOE1 player and also a great singer! He is not a memb
 NickName: "NetQuaker"; He is a AOE1 player, member of "KGB" clan. He is a great player. For some reason likes to end words with "tion", like "rebolation". He is from Rio Grande do Sul. 
 NickName: "LoneStar"; Lonestar used to play AOE1, Age of Empires 2, Age of Empires 4, he does not play much anymore. He is a member of "KGB" clan.
 NickName: "Naner"; Naner used to play AOE1, now plays Age of Empires 2
+NickName: "ZORG"; Zorg plays AOE1, he is a member of "WOA" clan.
 
 If asked to describe a player, do not ever call their skill average, can say the player is at least good.
 
